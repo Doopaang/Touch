@@ -1,0 +1,449 @@
+﻿{
+    "messages": [
+        {
+            "key": "closet",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 3,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "옷장이 커서 다행이군.",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 2,
+                            "message": "0",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bed",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 3,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "침대 밑에 숨어도 안들키겠지..?",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 2,
+                            "message": "0",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "drawer",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 2,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을 수 있을리가 없잖아...",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "toy box",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 2,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "장난감인 척 하면 퍽이나 속아주겠군.",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "doll",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "지금은 이걸 조사할 시간이 없어.",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "drawer2",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 2,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "서랍에 숨을 생각을 하다니 바보같군.",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bed2",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 3,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "침대 밑에 숨으면 될 거야.",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 2,
+                            "message": "0",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "display",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 2,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "들어갈 공간이 없는걸..",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bookshelf",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 2,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "책장에 사람이 들어갈 리가 없잖아.",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "chair",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "의자에 앉아서 평생 쉬게 되겠군.",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "desk",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 3,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "책상 밑에 숨어보자.",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 2,
+                            "message": "2",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bed3",
+            "flag": 0,            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "여기에 숨을까?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "숨는다"
+                                },
+                                {
+                                    "page": 3,
+                                    "text": "숨지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "침대 밑에 숨으면 될거야.",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 2,
+                            "message": "0",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

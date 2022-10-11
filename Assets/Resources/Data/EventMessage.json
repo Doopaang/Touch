@@ -1,0 +1,117 @@
+{
+    "messages": [
+        {
+            "key": "gate",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "보육원의 유일한 출입구다. 삐걱거리는 소리가 난다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": 0
+                        },
+                        {
+                            "type": 0,
+                            "message": "혹시 모르니 문을 잠가둘까?",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": "문을 잠근다"
+                                },
+                                {
+                                    "page": 4,
+                                    "text": "잠그지 않는다"
+                                }
+                            ],
+                            "flag": 0
+                        },
+                        {
+                            "type": 0,
+                            "message": "문을 잠궜다.",
+                            "choice": [
+                                {
+                                    "page": 3,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 0,
+                            "message": "뭐 나갈때는 다시 열면 되니까.",
+                            "choice": [],
+                            "flag": 1
+                        },
+                        {
+                            "type": 0,
+                            "message": "혹시 모르니까 건드리지 말자.",
+                            "choice": [],
+                            "flag": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "timeover",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "이게 무슨 소리지?",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "누군가가 왔나봐. 숨어야겠어!",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "sign",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 1,
+                            "message": "sign",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

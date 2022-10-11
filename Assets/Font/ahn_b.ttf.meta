@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2a78f6038aea9774b9c37daef0192e51
+timeCreated: 1500861457
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ahn2006-B
+  fontNames:
+  - ahn2006-B
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

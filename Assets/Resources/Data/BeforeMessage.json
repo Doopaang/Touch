@@ -1,0 +1,772 @@
+{
+    "messages": [
+        {
+            "key": "closet",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "거대한 옷장이다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "어린이 옷장치곤 좀 큰데, 내가 들어가고도 남겠군.",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bed",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "먼지가 가득한 침대다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "눕기에는 먼지가 너무 많은걸. ",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "drawer",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "진료 차트가 있다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "Chart_H",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "toy box",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "오래된 장난감 상자다. 장난감 금고가 있다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "이 금고는 뭘까?",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 3,
+                            "message": "1254",
+                            "choice": [
+                                {
+                                    "page": 3,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "금고가 열렸다.",
+                            "choice": [
+                                {
+                                    "page": 4,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 1,
+                            "message": "doll",
+                            "choice": [
+                                {
+                                    "page": 5,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 0,
+                            "message": "인형에서 뭔가 튀어나와있는데...?",
+                            "choice": [
+                                {
+                                    "page": 6,
+                                    "text": "만진다"
+                                },
+                                {
+                                    "page": 8,
+                                    "text": "만지지 않는다"
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 1,
+                            "message": "room1Event",
+                            "choice": [
+                                {
+                                    "page": 7,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 0,
+                            "message": "왜 저기에 가위를 숨기는 거지?",
+                            "choice": [],
+                            "flag": 1
+                        },
+                        {
+                            "type": 0,
+                            "message": "뭔지 모르니 만지지 말자.",
+                            "choice": [],
+                            "flag": 1
+                        }
+                    ]
+                },
+                {
+                    "contents": [
+                        {
+                            "type": 1,
+                            "message": "doll",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "인형에서 뭔가 튀어나와있는데...?",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": "만진다"
+                                },
+                                {
+                                    "page": 4,
+                                    "text": "만지지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "room1Event",
+                            "choice": [
+                                {
+                                    "page": 3,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "왜 저기에 가위를 숨기는 거지?",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "뭔지 모르니 만지지 말자.",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "drawer2",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "잠겨있다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 3,
+                            "message": "2117",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "서랍이 열렸다.",
+                            "choice": [
+                                {
+                                    "page": 3,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 1,
+                            "message": "scissor",
+                            "choice": [
+                                {
+                                    "page": 4,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 0,
+                            "message": "가위가 있다.",
+                            "choice": [
+                                {
+                                    "page": 5,
+                                    "text": "만진다"
+                                },
+                                {
+                                    "page": 7,
+                                    "text": "만지지 않는다"
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 1,
+                            "message": "room2Event",
+                            "choice": [
+                                {
+                                    "page": 6,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": 1
+                        },
+                        {
+                            "type": 0,
+                            "message": "가위를 훔치는 건가, 뭐하려는 거지?",
+                            "choice": [],
+                            "flag": 1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": 1
+                        }
+                    ]
+                },
+                {
+                    "contents": [
+                        {
+                            "type": 1,
+                            "message": "scissor",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "가위가 있다.",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": "만진다"
+                                },
+                                {
+                                    "page": 4,
+                                    "text": "만지지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "room2Event",
+                            "choice": [
+                                {
+                                    "page": 3,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "가위를 훔치는 건가, 뭐하려는 거지?",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bed2",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "사트가 다 뜯어진 침대다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "여기서 휴식을 취하긴 힘들겠군.",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "cabinet",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "약을 보관해놓은 장식장이다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "맨 윗칸을 살펴본다"
+                                },
+                                {
+                                    "page": 2,
+                                    "text": "중간 칸을 살펴본다"
+                                },
+                                {
+                                    "page": 3,
+                                    "text": "맨 밑칸을 살펴본다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "소량의 감기약이 늘어져 있다.",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "붕대와 소독약이 쓰러져있다.",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "약통이 엄청나게 쌓여있다.",
+                            "choice": [
+                                {
+                                    "page": 4,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "이건 무슨 약들이지?",
+                            "choice": [
+                                {
+                                    "page": 5,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "medicine",
+                            "choice": [
+                                {
+                                    "page": 6,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "C17H21NO4…?",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bookshelf",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "책들이 몇 권 꽃혀있다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "성경"
+                                },
+                                {
+                                    "page": 3,
+                                    "text": "Cocaine Addiction: Treatment, Recovery, and Relapse Prevention"
+                                },
+                                {
+                                    "page": 4,
+                                    "text": "보육일지"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "(고전10:31) 그런즉 너희가 먹든지 마시든지 무엇을 하던지 다 하나님의 영광을 위하여 하라.",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "흐음... 뭘하던 하나님 핑계대면 되는 건가.",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "흠 누군가가 마약을 하고 있었나 보군.",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "종이가 다 찢어져 너덜너덜 하다.",
+                            "choice": [
+                                {
+                                    "page": 5,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "중간에 뭔가가 껴있는거 같은데?",
+                            "choice": [
+                                {
+                                    "page": 6,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "Hint",
+                            "choice": [
+                                {
+                                    "page": 7,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "흠.. 무슨 암호같은건가.",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "chair",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "고급스러워 보이는 의자다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "음? 여기만 색이 다른데.",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": "만져 본다"
+                                },
+                                {
+                                    "page": 5,
+                                    "text": "만지지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "피가 굳어있어서 색이 달라보였던거군.",
+                            "choice": [
+                                {
+                                    "page": 3,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "room3Event",
+                            "choice": [
+                                {
+                                    "page": 4,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "가위로 사람을 죽일 생각을 하다니...",
+                            "choice": [],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "별로 만지고싶게 생기진 않았네.",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "desk",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "책상 서랍을 열었다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "진료 차트가있다.",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "Chart_c",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bed3",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "시트가 다 뜯어진 침대다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "뭔가가 떨어져 있는데?",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "Chart_N",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "bookshelf2",
+            "flag": 0,
+            "flags": [
+                {
+                    "contents": [
+                        {
+                            "type": 0,
+                            "message": "낡은 책이 있다.",
+                            "choice": [
+                                {
+                                    "page": 1,
+                                    "text": "펼쳐 본다"
+                                },
+                                {
+                                    "page": 2,
+                                    "text": "펼쳐 보지 않는다"
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 1,
+                            "message": "book",
+                            "choice": [
+                                {
+                                    "page": 2,
+                                    "text": ""
+                                }
+                            ],
+                            "flag": -1
+                        },
+                        {
+                            "type": 0,
+                            "message": "",
+                            "choice": [],
+                            "flag": -1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

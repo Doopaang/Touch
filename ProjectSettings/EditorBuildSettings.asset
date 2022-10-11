@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/MainScene.unity
+    guid: 6c071919154d7434699e6a05d60d7efd
+  - enabled: 1
+    path: Assets/Scene/CreditScene.unity
+    guid: 6bf72d412d0f0114cab4dc13807780ee
+  - enabled: 1
+    path: Assets/Scene/IntroScene.unity
+    guid: 46a1d0997303a7d47a730bf0513f3afd
+  - enabled: 1
+    path: Assets/Scene/LoadingScene.unity
+    guid: 9dee9bf99f01a1848b20ec1b2eb5a45f
+  - enabled: 1
+    path: Assets/Scene/GameScene.unity
+    guid: 300f43d4e31e88842aafdaf18fe3b036
+  - enabled: 1
+    path: Assets/Scene/PuzzleScene.unity
+    guid: 8d43d010fcfe23944a88749c5089774b
+  - enabled: 1
+    path: Assets/Scene/EndingTimeOver.unity
+    guid: b8a87edad02e59d4986a58ffa3263085
+  - enabled: 1
+    path: Assets/Scene/EndingBadEnd.unity
+    guid: b504c55e93209004c84cd47b981940cb
+  - enabled: 1
+    path: Assets/Scene/EndingHappyEnd.unity
+    guid: 77f1689d5b99426469582630e273a26b
